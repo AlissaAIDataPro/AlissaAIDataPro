@@ -1,4 +1,4 @@
-![Example Image]([https://github.com/AlissaAIDataPro/AlissaAIDataPro/blob/main/Alissa-background-photo-github.jpg])
+![Example Image]([Alissa-background-photo-github.jpg])
 
 
 <h1 align="center">Hi 👋, I'm Alissa Khan</h1>
