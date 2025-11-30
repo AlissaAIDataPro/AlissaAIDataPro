@@ -1,30 +1,19 @@
 ![Example Image](https://github.com/AlissaAIDataPro/AlissaAIDataPro/blob/main/Alissa-background-photo-github.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Alissa Khan</h1>
-<h3 align="center">A passionate Data Engineer | Analytics Engineer</h3>
+<h1 align="center">Hi 👋🏻, I'm Alissa Khan</h1>
+<h3 align="center">A passionate Data Analyst | Analytics Engineer</h3>
 
-- 🔭 I’m currently working on [TEST](TEST)
 
-- 🌱 I’m currently learning **FRAMEWORS, COURSES ETC**
+- 👨‍💻 View all of my Recent [Projects](https://github.com/AlissaAIDataPro?tab=repositories)
 
-- 👯 I’m looking to collaborate on [TEST](TEST)
+- 📝 See my recent posts on [Linkedin](www.linkedin.com/in/alissakhan-data)
 
-- 🤝 I’m looking for help with [TEST](TEST)
-
-- 👨‍💻 All of my projects are available at [PORTFOLIO LINK](PORTFOLIO LINK)
-
-- 📝 I regularly write articles on [LINKEDIN LINK](LINKEDIN LINK)
-
-- 💬 Ask me about **TEST**
-
-- 📫 How to reach me **GMAIL**
-
-- ⚡ Fun fact **FUN FACT**
+- ⚡ Fun fact: **When I'm not scaling hights 🏔️ I'm scaling data!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/khanofdataengineering" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/alissakhan-data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
