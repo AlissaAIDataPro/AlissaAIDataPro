@@ -1,4 +1,4 @@
-![Example Image](https://github.com/lkhan-data-engineer/lkhan-data-engineer/blob/main/Untitled%20design.jpg)
+![Example Image]([https://github.com/lkhan-data-engineer/lkhan-data-engineer/blob/main/Untitled%20design.jpg](https://github.com/AlissaAIDataPro/AlissaAIDataPro/blob/main/Alissa-background-photo-github.jpg))
 
 
 <h1 align="center">Hi 👋, I'm Alissa Khan</h1>
